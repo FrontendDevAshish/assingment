@@ -50,7 +50,7 @@ function Coupons() {
         <p className=" absolute top-20   text-white font-[900] leading-[1.88rem]  text-[1.5rem]  -rotate-90  ">
           Rs.100 Off
         </p>
-        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-5 text-white ">
+        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-5 text-black ">
           COUPON
         </p>
         <div className="w-[14.4rem] absolute top-14 right-6">
