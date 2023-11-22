@@ -177,7 +177,7 @@ function Invoice() {
         </div>
 
         {/* **************************************** Coupons ************************************* */}
-        <h1 className="caption py-2">Coupon available</h1>
+        <h1 className="caption py-2">Coupon </h1>
         <Coupons />
       </div>
       {/* ******************************* Reviews ***************************** */}
