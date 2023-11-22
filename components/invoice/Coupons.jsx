@@ -57,7 +57,7 @@ function Coupons() {
           <h1 className="font-[900] text-[1.5rem] leading-[1.875rem]">
             HEALTH100
           </h1>
-          <p className="font-[700] w-[7rem] pb-1 text-[#83828E] leading-4 text-[0.81rem]">
+          <p className="font-[700] w-[7rem] pb-1 text-[red] leading-4 text-[0.81rem]">
             Get Discount On Service Fee
           </p>
           <section className="flex justify-between items-end">
