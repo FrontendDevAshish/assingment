@@ -5,16 +5,16 @@ function Coupons() {
   const [c2, setC2] = useState(false);
   return (
     <div className="flex flex-col gap-6">
-      <div className="  relative">
+      <div className="relative">
         <img
-          className=" rounded-[1.27rem] shadow-[-10px_-10px_20px_#FFFFFF,10px_10px_20px_#D3E7F7]   "
+          className=" rounded-[1.27rem] shadow-[-10px_-10px_20px_#FFFFFF,10px_10px_20px_#D3E7F7]  md:h-[12rem] lg:h-[14rem] xl:h-[18rem]  "
           src="/invoice/coupon1.png"
           alt="coupon"
         ></img>
-        <p className=" absolute top-20   text-white font-[900] leading-[1.88rem]  text-[1.5rem]  -rotate-90  ">
+        <p className=" absolute top-20  text-white font-[900] leading-[1.88rem]  text-[1.5rem]  -rotate-90  ">
           Rs.100 Off
         </p>
-        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-5 text-white ">
+        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-8 text-white lg:right-[9rem] xl:text-[2rem] ">
           COUPON
         </p>
         <div className="w-[14.4rem] absolute top-14 right-6">
@@ -43,14 +43,14 @@ function Coupons() {
       </div>
       <div className="  relative">
         <img
-          className=" rounded-[1.27rem] shadow-[-10px_-10px_20px_#FFFFFF,10px_10px_20px_#D3E7F7]   "
+          className=" rounded-[1.27rem] shadow-[-10px_-10px_20px_#FFFFFF,10px_10px_20px_#D3E7F7] md:h-[12rem] lg:h-[14rem] xl:h-[18rem] "
           src="/invoice/coupon1.png"
           alt="coupon"
         ></img>
         <p className=" absolute top-20   text-white font-[900] leading-[1.88rem]  text-[1.5rem]  -rotate-90  ">
           Rs.100 Off
         </p>
-        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-5 text-white ">
+        <p className="absolute top-4 right-24 font-[800] text-[1rem] leading-8 text-white lg:right-[9rem] xl:text-[2rem] ">
           COUPON
         </p>
         <div className="w-[14.4rem] absolute top-14 right-6">
